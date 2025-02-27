@@ -17,8 +17,6 @@ This project is an **AI-powered Transformer-based Translator** that converts **C
 - **Language:** Python  
 - **Model:** Transformer-based Seq2Seq  
 
-## 🔧 Installation & Setup  
-### 1️⃣ Clone the repository  
 
 
 ![image](https://github.com/user-attachments/assets/493ffc78-26a4-49dd-aad7-e004ae63ef22)
