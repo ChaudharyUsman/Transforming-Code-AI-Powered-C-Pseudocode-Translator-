@@ -19,9 +19,6 @@ This project is an **AI-powered Transformer-based Translator** that converts **C
 
 ## 🔧 Installation & Setup  
 ### 1️⃣ Clone the repository  
-```sh
-git clone https://github.com/ChaudharyUsman/Transforming-Code-AI-Powered-C-Pseudocode-Translator-.git
-cd Transforming-Code-AI-Powered-C-Pseudocode-Translator-
 
 
 ![image](https://github.com/user-attachments/assets/493ffc78-26a4-49dd-aad7-e004ae63ef22)
